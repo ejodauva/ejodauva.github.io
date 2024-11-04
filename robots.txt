@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ejodauva.github.io/KVc/sitemap_index.txt
+Sitemap: https://ejodauva.github.io/bvt/sitemap_index.txt
+Sitemap: https://ejodauva.github.io/eDy/sitemap_index.txt
+Sitemap: https://ejodauva.github.io/fkg/sitemap_index.txt
